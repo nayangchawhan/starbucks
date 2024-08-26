@@ -146,6 +146,11 @@ header nav{
     border: none;
     margin-top: 20px;
 }
+
+.carousel .list .item .main-content .content .addToCard :hover{
+    background-color: #1ef17a;
+}
+
 .arrows{
     position: absolute;
     bottom: 20px;
